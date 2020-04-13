@@ -1,9 +1,9 @@
 ﻿# Welcome to TeleVital!
-TeleVital is an AI based chatbot to help people do preliminary analysis for Covid-19 contraction (Covid-19 assessment test, Vitals test) right at the comfort of their homes. 
-Additionally, TeleVital provides a platform for hospital / doctors to prioritise on their patients based on their criticality and email patients.
 ![homepage](homepage.png)
+TeleVital is an AI based chatbot designed to help people do preliminary analysis for Covid-19 contraction (Covid-19 assessment test, Vitals test) right at the comfort of their homes. 
+Additionally, TeleVital provides a platform for hospital / doctors to prioritise on their patients based on their criticality and email patients.
 
-TeleVital Webpage: https://televital-code19.web.app/
+**TeleVital Webpage:** https://televital-code19.web.app/
 
 # Components of TeleVital Platform
 1. **AI Chatbot:**  	
@@ -24,3 +24,10 @@ Understanding the rapid increase in cases of Covid-19, patient prioritizer porta
 3. **Database**: Firebase
 
 
+## Contributors
+
+- Jithin Sunny
+- Rohan Rout
+- Megha Baid
+- Rakshit Naidu
+- Joel Jogy
