@@ -31,7 +31,8 @@ Understanding the rapid increase in cases of Covid-19, patient prioritizer porta
 ## Contributors
 
 - Jithin Sunny
-- Rohan Rout
-- Megha Baid
-- Rakshit Naidu
-- Joel Jogy
+- Rohan Rout (rohan.rout98@gmail.com)
+- Shivangi Shukla (shivangishukla167@gmail.com)
+- Megha Baid 
+- Rakshit Naidu (rakshit.naidu07@gmail.com)
+- Joel Jogy (joeljogy07@gmail.com)
