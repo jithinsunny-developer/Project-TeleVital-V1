@@ -1,4 +1,4 @@
-﻿# Project TeleVital!
+﻿# Project TeleVital
 ![homepage](homepage.png)
 
 **TeleVital WebApp:** https://televital-code19.web.app/
